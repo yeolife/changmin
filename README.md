@@ -15,8 +15,6 @@ SSAFY 11기 알고리즘 스터디 마이구미 6반 밍고리즘조 입니다.
 
 [BOJ] 문제이름 문제번호 본인이름
 
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ## Team 
 
